@@ -10,7 +10,7 @@ A data warehouse for Bloomberg to analyze FX deals. This project is part of a sc
   - To Currency ISO Code
   - Deal Timestamp
   - Deal Amount in Ordering Currency
-- Validates the structure of each deal (e.g., missing fields, type format, etc.)
+- Validates the structure of each deal (ex : missing fields, type format, etc.)
 - Prevents the import of duplicate deals
 - Ensures all valid deals are saved in the database (no rollback)
 
