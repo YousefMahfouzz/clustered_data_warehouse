@@ -2,7 +2,7 @@
 
 A data warehouse for Bloomberg to analyze FX deals. This project is part of a scrum team effort to develop a data warehouse that accepts and persists deal details into a database.
 
-# Features
+## Features
 
 - Accepts deal details including:
   - Deal Unique ID
@@ -14,7 +14,7 @@ A data warehouse for Bloomberg to analyze FX deals. This project is part of a sc
 - Prevents the import of duplicate deals
 - Ensures all valid deals are saved in the database (no rollback)
 
-# Technology Stack
+## Technology Stack
 
 - Java 17
 - Spring Boot 3.3.1
@@ -23,7 +23,7 @@ A data warehouse for Bloomberg to analyze FX deals. This project is part of a sc
 - Docker & Docker Compose
 - Maven
 
-# Setup and Installation
+## Setup and Installation
 
 ## Prerequisites
 
